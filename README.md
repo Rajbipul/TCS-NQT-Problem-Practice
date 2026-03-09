@@ -32,7 +32,19 @@ Output #2: while is not a keyword
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-<img width="644" height="625" alt="image" src="https://github.com/user-attachments/assets/eac79f00-33c6-4019-a1ad-c0f8251ffb94" />
+<img width="653" height="571" alt="image" src="https://github.com/user-attachments/assets/7615a18a-db16-4f39-ad85-41828c557537" />
+<img width="653" height="174" alt="image" src="https://github.com/user-attachments/assets/36bb5c3a-9f37-48a3-910f-1824b7c557bc" />
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
+<img width="653" height="666" alt="image" src="https://github.com/user-attachments/assets/dce55bc6-068a-4145-9eef-1ad8d3b379bc" />
+<img width="653" height="473" alt="image" src="https://github.com/user-attachments/assets/81e18510-0984-4eb6-9951-54f78988688d" />
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="653" height="499" alt="image" src="https://github.com/user-attachments/assets/5e4ecabf-876d-4ad2-99a2-f16cb82a3085" />
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
